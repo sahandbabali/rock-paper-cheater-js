@@ -1,0 +1,35 @@
+body {
+  font-family: open sans;
+}
+
+.infobox {
+  padding-left: 3em !important;
+}
+
+.bigtar {
+  font-size: 2em;
+}
+.bigtarrr{
+  font-size: 3em;
+}
+
+.bigtarr {
+  padding-top: 1em !important;
+  font-size: 5em;
+}
+
+.vasat {
+  text-align: center;
+}
+
+.nav-wrapper {
+  padding-left: 1em;
+}
+
+.chip {
+  font-size: x-large;
+}
+
+.infow {
+  font-size: 2em;
+}
